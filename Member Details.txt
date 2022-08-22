@@ -1,0 +1,20 @@
+Name: Sudipta Bhatta
+ID:: 1731194042
+Email Address: sudipta.bhatta@northsouth.edu
+Phone Number: 01748091589
+
+Name: Isfaf Uz Zaman
+ID: 1811991042
+Email Address: isfaf.zaman@northsouth.edu
+Phone Number: 01622673064
+
+Name: Nuzhat Raisa 
+ID: 1813524642
+Email Address: nuzhta.raisa@northsouth.edu
+Phone Number: 01745826772
+
+Name: Shazzadul Islam Fahim
+Id: 1811195042
+Email Address: shazzadul.fahim@northsouth.edu
+Phone Number: 01752007136
+
